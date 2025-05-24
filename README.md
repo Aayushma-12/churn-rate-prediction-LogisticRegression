@@ -25,7 +25,7 @@ This repository demonstrates how to predict customer churn using Multinomial Log
 
 ---
 
-## 🛠️ Tools and Libraries
+## Tools and Libraries
 
 - **Python Libraries**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 - **Visualization**: `Matplotlib`, `Seaborn`
