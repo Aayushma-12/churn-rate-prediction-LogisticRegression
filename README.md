@@ -17,6 +17,7 @@ This repository demonstrates how to predict customer churn using Multinomial Log
 - Analyzed churn trends and feature distributions to guide model development.
 
 ### Logistic Regression Implementation
+- Applied SMOTE to balance the imbalance dataset.
 - Applied hyperparameter tuning to improve accuracy and avoid overfitting.
 
 ### Performance Evaluation
